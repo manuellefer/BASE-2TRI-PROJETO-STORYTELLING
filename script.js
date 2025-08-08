@@ -6,37 +6,37 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "pergunta deve ser escrita aqui",
+        enunciado: "Você sente que escolheu seu futuro com base no que quer ou no que esperam de você?",
         alternativas: [
             {
-                texto: "alternativa letra A deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra A deve estar aqui "
+                texto: "No que esperam de mim.",
+                afirmacao: "Você começará sua jornada seguindo os caminhos que outros apontaram. Mesmo sem ter certeza, sentirá que precisa corresponder às expectativas, acreditando que isso trará segurança."
             },
             {
-                texto: "alternativa letra B deve ser escrita aqui",
-                afirmacao: "Afirmação gerada se a pessoa escolher a letra B deve estar aqui "
+                texto: "No que eu realmente quero.",
+                afirmacao: "Desde o início, você fará suas escolhas com base no que você acredita. Mesmo enfrentando dúvidas, terá clareza de que precisa viver algo que realmente te represente."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Se ninguém te julgasse por sua escolha de carreira, ela seria diferente?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "Sim, eu faria outra coisa.",
+                afirmacao: "Com o tempo, o medo do julgamento vai pesar. Suas decisões parecerão certas aos olhos dos outros, mas algo em você começará a questionar se está mesmo no lugar certo"
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "Não, eu faria a mesma coisa.",
+                afirmacao: "Você seguirá com firmeza, mesmo sem aprovação total. Essa autenticidade atrairá experiências que te tranformarão, te deixando cada vez mais alinhado com o que é por dentro."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Você acredita que sua escolha de agora define toda a sua vida?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "Sim, sinto que é algo definitivo",
+                afirmacao: "A crença de que tudo precisa dar certo de primeira vai te deixar tenso. CAda passo será calculado e a ideia de falhar poderá te impedir de algo novo."
             },
             {
                 texto: "",
